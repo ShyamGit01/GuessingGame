@@ -20,7 +20,7 @@ int main()
     "valid","value","video","virus","visit","vital","voice","write"
 
 };
-     / total word
+     // total word
      int n=sizeof(strList)/(sizeof(strList[0]));
 
     cout<<"\n            WORD GUESSING GAME              \n";
